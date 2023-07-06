@@ -1,0 +1,36 @@
+body {
+  padding-top: 60px;
+  background-color: rgb(255, 147, 165);
+}
+
+.navbar.bg-purple {
+  background-color: purple;
+}
+
+.video-thumbnail {
+  width: 100%;
+  cursor: pointer;
+}
+
+.modal-body {
+  padding: 0;
+}
+
+.titulo {
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+    text-shadow: black 5px 5px 1px; 
+}
+
+.card {
+    border-radius: 6px;
+    box-shadow: #fd64e6 0px 6px 0px 2px;
+}
+.you{
+    color: red;
+    text-shadow: black 1px 2px 3px;
+}
+.tic {
+  color: rgb(7, 7, 7);
+    text-shadow: rgb(255, 255, 255) 1px 2px 3px;
+}
